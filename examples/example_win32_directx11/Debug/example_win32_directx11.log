@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(34,111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(220,40): warning C4456: declaration of 'Alpha' hides previous local declaration
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(141,22): message : see declaration of 'Alpha'
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(254,40): warning C4456: declaration of 'Alpha' hides previous local declaration
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(141,22): message : see declaration of 'Alpha'
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(288,40): warning C4456: declaration of 'Alpha' hides previous local declaration
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(141,22): message : see declaration of 'Alpha'
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(322,40): warning C4456: declaration of 'Alpha' hides previous local declaration
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(141,22): message : see declaration of 'Alpha'
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(105,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\main.cpp(106,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  example_win32_directx11.vcxproj -> C:\Users\Rudolf\Downloads\imgui-1.89.1\imgui-1.89.1\examples\example_win32_directx11\Debug\example_win32_directx11.exe
